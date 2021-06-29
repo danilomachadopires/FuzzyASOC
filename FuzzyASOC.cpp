@@ -48,7 +48,7 @@ cin>>inf; cin>>pic; cin>>sup;
 cout<<" Enter time: "<<endl;
 cin>>t;
 // pipe length
-cout<<"  Enter the initial and final point of the x (pipe): "<<endl;
+cout<<" Enter the lower and the upper limit of the pipe: "<<endl;
 cin>>x; cin>>x1;
 
   
